@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fcbe4</color>
+    <color name="colorPrimaryDark">#40a4b9</color>
+    <color name="colorAccent">#3fcbe4</color>
+
+    <color name="background">#F5F5F5</color>
+    <color name="foreground_disabled">#CCecf0f1</color>
+    <color name="button_background">#3fcbe4</color>
+
+    <color name="primaryText">#191919</color>
+    <color name="primaryTextHint">#929292</color>
+    <color name="empty_text">#6e6e6e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff4444</color>
+    <!--<color name="social_background">#7acadb</color>-->
+    <color name="social_background">#55FFFFFF</color>
+    <color name="edit_field_text">#c4c4c4</color>
+    <color name="signup_edit_field_text">#7d7d7d</color>
+    <color name="login_field_title">#c9ecf4</color>
+
+    <color name="search_separator">#cecece</color>
+    <color name="line_color">#888888</color>
+    <color name="order_line_color">#d8d8d8</color>
+    <color name="menu_text_color">#474747</color>
+    <color name="title_black_text">#595959</color>
+    <color name="landing_text">#434343</color>
+    <color name="order_backgroud">#ecf0f1</color>
+    <color name="order_title">#232323</color>
+    <color name="order_subtitle">#5f5f5f</color>
+    <color name="order_date">#a2a2a2</color>
+    <color name="star_color">#E5C04F</color>
+    <color name="map_green">#35B233</color>
+    <color name="cast_intro_overlay_button_background_color">#BB33B5E5</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <!--<color name="map_green">#298B28</color>-->
+
+</resources>
